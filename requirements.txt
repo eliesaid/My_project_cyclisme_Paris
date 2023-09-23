@@ -8,3 +8,4 @@ matplotlib
 seaborn
 pandas_geojson
 joblib
+xgboost
