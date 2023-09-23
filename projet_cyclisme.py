@@ -28,6 +28,7 @@ if page=="Présentation":
     st.caption(" Guerchom SAID_")
 
 
+
 #Description du dataset 
 
     st.subheader(":blue[Description]")
@@ -141,7 +142,7 @@ if page=="Visualisation":
               
                    
     st.subheader(":blue[Conclusion générale sur la visualisation]")
-    st.markdown("Nous avons constaté le manque de corrélation importante entre les variables et la fréquentation. Néanmoins, le printemps est la saison la plus fréquentée. Certains compteurs sont très sollicités par temps de pluie et temps de neige, une attention particulière à ces axes est recommandée.Enfin, nous avons observé des pics de fréquentation entre 8h00 et 10h00, et entre 17h00 et 20h00. Notre constat est que le vélo est utilisé à Paris pour se rendre à son lieu d’activité.")
+    st.markdown("J'ai constaté le manque de corrélation importante entre les variables et la fréquentation. Néanmoins, le printemps est la saison la plus fréquentée. Certains compteurs sont très sollicités par temps de pluie et temps de neige, une attention particulière à ces axes est recommandée.Enfin, j'ai observé des pics de fréquentation entre 8h00 et 10h00, et entre 17h00 et 20h00. Notre constat est que le vélo est utilisé à Paris pour se rendre à son lieu d’activité.")
     
 
     
