@@ -9,3 +9,4 @@ seaborn
 pandas_geojson
 joblib
 xgboost
+scikit-learn
